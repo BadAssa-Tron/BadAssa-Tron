@@ -7,6 +7,7 @@ I enjoy competitive programming and am also actively learning AI/ML to apply the
 <p align="left">
 <a href="mailto:adikrish2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="www.linkedin.com/in/h-adithya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/Bad_Assa_Tron"><img src="https://img.shields.io/badge/Codeforces-FF7043?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
 
 ## Tech Stack:
